@@ -1,6 +1,40 @@
-# FIAP Studies 📚
-Repository for storing exercises, checkpoints, and projects from my Software Engineering degree at FIAP.
-## Technologies:
-- Python
-- Web Development (HTML/CSS/JS)
-- Computational Thinking
+# FIAP Studies 🎓
+
+# 🚀 Software Engineering - FIAP (Class of 2026)
+
+This repository is dedicated to storing my academic progress, lab exercises, and projects developed during my Software Engineering degree at **FIAP (Paulista Campus)**.
+
+The goal is to document my evolution as a developer and maintain a structured history of my professional training.
+
+---
+
+## 🛠️ Current Semester - Subjects & Labs
+
+### 🐍 Python & Logic
+* **Subject:** Computational Thinking with Python
+* **Professor:** Francisco Elanio Bezerra
+* **Focus:** Algorithms, data structures, and logical problem-solving.
+
+### 🌐 Web & Front-End
+* **Subject:** Web Development | Front-End Design
+* **Professors:** Daniel Loureiro Cintra | Julia Assunção Silva
+* **Focus:** Modern web standards, responsive design, and UI/UX implementation.
+
+### ⚙️ Hardware & Architecture
+* **Subject:** Edge Computing & Computer Systems
+* **Professor:** Paulo Marcotti
+* **Focus:** Integration between software and hardware (IoT and Embedded Systems).
+
+### 💡 Soft Skills & Design
+* **Subject:** Software & Total Experience Design | Differentiated Problem Solving
+* **Professors:** Gabriela Rodrigues Salomão | Fernando Pizzo Ribeiro
+* **Focus:** UX/UI Design, innovative solutions, and agile methodologies.
+
+---
+
+## 📂 Repository Organization
+Each subject has its own folder following the structure:
+`Subject-Name / Assignments / source-code`
+
+---
+*Developed by: Juan Duarte - FIAP Paulista Campus*
