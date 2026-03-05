@@ -1,2 +1,2 @@
 # Aulas-Fiap
-Aqui colocarei meus códigos das aulas
+Este repositório contém meus estudos na FIAP, iniciado em 2026
