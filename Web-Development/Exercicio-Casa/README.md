@@ -1,1 +1,0 @@
-# Exercícios Feitos em Casa
