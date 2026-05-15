@@ -1,0 +1,99 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* BODY */
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* NAV */
+.nav {
+  background: #222;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+.nav_logo {
+  font-size: 20px;
+}
+
+/* CONTAINER */
+.container {
+  max-width: 1000px;
+  margin: 20px auto;
+}
+
+/* CARDS */
+.todos-os-card {
+  margin-top: 20px;
+}
+
+/* CARD INDIVIDUAL */
+.card-indivudal,
+.raça-card {
+  background: white;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+
+/* IMAGEM */
+.foto-card,
+.raça-card_img {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+/* TEXTO */
+.corpo-card-unico {
+  padding: 15px;
+}
+
+/* TITULOS */
+.corpo-card-unico h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+/* TEXTO */
+.corpo-card-unico p {
+  margin-bottom: 10px;
+}
+
+/* CARACTERISTICAS */
+.card-caracteristica-unica {
+  margin-top: 10px;
+}
+
+.card-caracteristica-unica div {
+  margin-bottom: 5px;
+}
+
+/* FATOS */
+.fatos {
+  background: white;
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.fatos-destaque {
+  background: #ffeaa7;
+}
+
+/* FOOTER */
+.footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+}
+
