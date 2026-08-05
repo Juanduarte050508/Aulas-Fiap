@@ -1,0 +1,11 @@
+--- CSS --- .event-card {
+    width: 340px;
+    padding: 24px;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    transition:
+        border-color 0.2s ease,
+        transform 0.2s ease;
+}
